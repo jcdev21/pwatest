@@ -1,0 +1,24 @@
+{
+ "producs": [
+{"id":1,"name":"Bettongia penicillata","category":"Maroon"},
+{"id":2,"name":"Paraxerus cepapi","category":"Violet"},
+{"id":3,"name":"Gazella thompsonii","category":"Aquamarine"},
+{"id":4,"name":"Cochlearius cochlearius","category":"Violet"},
+{"id":5,"name":"Zalophus californicus","category":"Khaki"},
+{"id":6,"name":"Podargus strigoides","category":"Purple"},
+{"id":7,"name":"Ursus americanus","category":"Mauv"},
+{"id":8,"name":"Geochelone radiata","category":"Maroon"},
+{"id":9,"name":"Lycosa godeffroyi","category":"Teal"},
+{"id":10,"name":"Agouti paca","category":"Crimson"},
+{"id":11,"name":"Ctenophorus ornatus","category":"Yellow"},
+{"id":12,"name":"Mellivora capensis","category":"Fuscia"},
+{"id":13,"name":"Platalea leucordia","category":"Crimson"},
+{"id":14,"name":"Eutamias minimus","category":"Pink"},
+{"id":15,"name":"unavailable","category":"Indigo"},
+{"id":16,"name":"Hyaena brunnea","category":"Pink"},
+{"id":17,"name":"Vombatus ursinus","category":"Green"},
+{"id":18,"name":"Lamprotornis nitens","category":"Green"},
+{"id":19,"name":"Psophia viridis","category":"Orange"},
+{"id":20,"name":"Columba palumbus","category":"Green"}
+]
+}
